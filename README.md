@@ -11,7 +11,7 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="right" alt="Bruno-Gif" src="https://i.picasion.com/pic92/c8d00a1a25aa36aeee2a185d4f3b3ca8.gif">
+  <img align="right" alt="Bruno-Gif" src="cdn.discordapp.com/attachments/594270914154201088/998669436745695303/gif_meu.gif">
 </div>
   
   ##
