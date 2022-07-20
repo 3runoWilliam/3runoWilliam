@@ -12,11 +12,7 @@
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Bruno-Node" height="30" width="40" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
-  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
-  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
-  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
-  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
-  
+  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">  
 </div>
   
   
