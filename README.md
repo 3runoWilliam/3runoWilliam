@@ -1,11 +1,26 @@
- Bruno William, atualmente estou cursando Analise e Desenvolvimento de Sistemas pela UFRN
+
 <a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a>
+<img width="20%" align="right" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif" >
+```yaml
+Bio:
+    Name: "Bruno William"
+    Current role: "Student"
+    Education: "Analysis and Systems Development"
+    Location: "Natal-RN"
+    Fun Fact: "Gamer & Gamer"
+    
+```
+</a>
+ 
+<a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 <div align="center">
   <a href="https://github.com/3runoWilliam">
   <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruno-Ts" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-Node" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
