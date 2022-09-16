@@ -20,7 +20,7 @@
 
   ##
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=0e75b6&style=flat" alt="3runoWilliam" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=red&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
   
 <div> 
   <a href="https://www.youtube.com/channel/UCf3LHnOsM3XHdg4q6vt2IUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
