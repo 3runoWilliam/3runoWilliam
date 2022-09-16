@@ -15,12 +15,13 @@
   <img align="center" alt="Bruno-PsAdmin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">  
-</div>
-  
-  
+  <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
+</div>  
+
   ##
- 
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=0e75b6&style=flat" alt="3runoWilliam" /> </p>
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCf3LHnOsM3XHdg4q6vt2IUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/3.runo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
