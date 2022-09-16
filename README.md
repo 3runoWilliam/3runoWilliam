@@ -1,8 +1,8 @@
 ## Bruno William, atualmente estou cursando Analise e Desenvolvimento de Sistemas pela UFRN
 <div align="center">
   <a href="https://github.com/3runoWilliam">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
