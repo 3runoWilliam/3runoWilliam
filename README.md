@@ -1,4 +1,5 @@
-## Bruno William, atualmente estou cursando Analise e Desenvolvimento de Sistemas pela UFRN
+ Bruno William, atualmente estou cursando Analise e Desenvolvimento de Sistemas pela UFRN
+<a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
   <a href="https://github.com/3runoWilliam">
   <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -18,7 +19,7 @@
   <img align="right" alt="Bruno-Gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif">
 </div>  
 
-  ##
+  <a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=red&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
   
@@ -34,4 +35,6 @@
   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
   ![GitHub Snake Light](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
  
+  <a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 </div>
