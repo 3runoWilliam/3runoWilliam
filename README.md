@@ -30,6 +30,7 @@
 
   <!-- <img src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif" />-->
  
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
   ![GitHub Snake Light](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
