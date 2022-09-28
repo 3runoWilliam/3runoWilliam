@@ -37,6 +37,7 @@ Bio:
 
 </div>  
 
+
   <a href="https://www.youtube.com/watch?v=MgG13r2fVOw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=blue&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
