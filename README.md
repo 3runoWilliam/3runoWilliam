@@ -40,7 +40,7 @@ Bio:
 
   <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=blue&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=orange&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
   
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCf3LHnOsM3XHdg4q6vt2IUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
