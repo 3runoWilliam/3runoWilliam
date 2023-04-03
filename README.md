@@ -18,8 +18,8 @@ Bio:
 
 <div align="center">
   <a href="https://github.com/3runoWilliam">
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&langs_count=7&theme=dark"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=dark"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&show_icons=true&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
