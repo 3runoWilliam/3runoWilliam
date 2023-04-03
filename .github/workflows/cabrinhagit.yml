@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Cobrinha Come-Come
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: 3runoWilliam
-          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
