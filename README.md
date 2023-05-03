@@ -18,8 +18,8 @@ Bio:
 
 <div align="center">
   <a href="https://github.com/3runoWilliam">
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&theme=dark"/>
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&show_icons=true&theme=dark"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -51,5 +51,5 @@ Bio:
   ![GitHub Snake Light](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
  
   <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
+      
 </div>
