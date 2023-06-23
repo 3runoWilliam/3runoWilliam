@@ -18,7 +18,7 @@ Bio:
 
 <div align="center">
   <a href="http://www.github.com/3runoWilliam"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=3runoWilliam&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
-  <a href="http://www.github.com/3runoWilliam"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/3runoWilliam"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoWilliam&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -36,8 +36,7 @@ Bio:
 
 </div>  
 
-
-  <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=orange&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
   
@@ -49,13 +48,15 @@ Bio:
  
   ![GitHub Snake Dark](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
  
-  <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20b2aa&size=25&center=true&vCenter=true&width=1000&lines=MEU+CURRÍCULO+E+PORTFÓLIO)](https://git.io/typing-svg)
 
-### Curriculo:
-- [Clique para acessar](https://drive.google.com/file/d/1Rm84IAWoB65xfN8AZ9fFU9w_-cFWHgVA/view?usp=sharing)
+ ### Curriculo:
+  - [Clique para acessar](https://drive.google.com/file/d/1Rm84IAWoB65xfN8AZ9fFU9w_-cFWHgVA/view?usp=sharing)
+<br></br>
+ ### Portfólio:
+  - [Clique para acessar](https://3runo.netlify.app)
 
-### Portfólio:
-- [Clique para acessar](https://3runo.netlify.app)
+<a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
