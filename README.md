@@ -50,7 +50,7 @@ Bio:
 <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20b2aa&size=25&center=true&vCenter=true&width=1000&lines=MEU+CURRÍCULO+E+PORTFÓLIO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20b2aa&size=25&center=true&vCenter=true&width=1000&lines=MEU+CURRÍCULO+E+PORTFÓLIO)](https://github.com/3runoWilliam/)
 
 <div>
  <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/85655579/180077172-462fa02b-7be4-4223-9da7-86166ffd9031.gif" >
