@@ -58,9 +58,7 @@ Bio:
 
  ### Curriculo:
   - [Clique para acessar](https://drive.google.com/file/d/1Rm84IAWoB65xfN8AZ9fFU9w_-cFWHgVA/view?usp=sharing)
-
 <br></br>
-
  ### Portfólio:
   - [Clique para acessar](https://3runo.netlify.app)
 
