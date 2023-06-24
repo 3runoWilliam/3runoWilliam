@@ -1,4 +1,3 @@
-
 <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a>
 ```yaml
@@ -59,7 +58,9 @@ Bio:
 
  ### Curriculo:
   - [Clique para acessar](https://drive.google.com/file/d/1Rm84IAWoB65xfN8AZ9fFU9w_-cFWHgVA/view?usp=sharing)
+
 <br></br>
+
  ### Portfólio:
   - [Clique para acessar](https://3runo.netlify.app)
 
