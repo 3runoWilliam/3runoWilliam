@@ -43,7 +43,7 @@ Bio:
     
 <a href="https://www.youtube.com/watch?v=S_f5Mt4UfMg"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  ![GitHub Snake Dark](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/3runoWilliam/3runoWilliam/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=3runoWilliam&label=Profile%20views&color=blue&style=background:#3630a3;color:white;" alt="3runoWilliam" /> </p>
  
